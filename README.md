@@ -1,3 +1,3 @@
 # rsschool-cv
 
-## https://xvnns.github.io/rsschool-cv/cv
+## https://xvnns.github.io/rsschool-cv/
