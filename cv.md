@@ -7,6 +7,8 @@
 - Discord: lamacon
 - Samara, Russia
 
+## Brief Self-Introduction
+
 I'm backend developer and want to specialize in frontend development. I have a passion for learning and trying new technologies, as well as a passion for artificial intelligence technologies and a desire to keep up to date with the latest news in this field. I strive to constantly learn and improve my skills in software development.
 
 ## Skills
@@ -54,7 +56,7 @@ Samara University, Institute of IT and Cybernetics, Applied Mathematics and Comp
 
 Backend-workshop, Simbirsoft
 
-## Languages:
+## Languages
 
 - Russian (Native)
 - English (A2)
